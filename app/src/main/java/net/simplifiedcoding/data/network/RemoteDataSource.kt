@@ -1,7 +1,7 @@
 package net.simplifiedcoding.data.network
 
 import android.content.Context
-import net.simplifiedcoding.BuildConfig
+import androidx.viewbinding.BuildConfig
 import okhttp3.Authenticator
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
